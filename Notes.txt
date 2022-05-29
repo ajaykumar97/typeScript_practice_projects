@@ -1,0 +1,2 @@
+Core types in JS & TS: number, string, boolean
+
